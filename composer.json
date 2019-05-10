@@ -1,0 +1,19 @@
+{
+    "name": "axilweb/contact",
+    "description": "It will send email to admin and save the data.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rakib",
+            "email": "rakib@axilweb.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Axilweb\\Contact\\": "src/"
+        }
+    }
+}
